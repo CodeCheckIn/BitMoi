@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ## 📋 Documents
  - [프로젝트 칸반보드](https://github.com/radic2510/Team-CodeCheckIn/projects/1) <br/>
  - [요구사항](https://www.notion.so/c20bd54d2a6e485184fbc9a9733b7d4a) <br/>
