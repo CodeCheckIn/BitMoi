@@ -1,11 +1,12 @@
 # We are CodeCheckIn✨
 
-
+## 🪙 코인 모의 투자
+>빗썸 API를 사용해 실 거래와 유사한 코인 트레이딩을 할 수 있는 코인 모의 투자를 경험해 볼 수 있습니다.
 
 ## 📋 Documents
- - [프로젝트 칸반보드](https://github.com/radic2510/Team-CodeCheckIn/projects/1) <br/>
- - [요구사항](https://www.notion.so/c20bd54d2a6e485184fbc9a9733b7d4a) <br/>
- - [API](https://www.notion.so/API-Document-c84ed72395714d18bb33be6859372f7c) <br/>
+>-  [프로젝트 칸반보드](https://github.com/radic2510/Team-CodeCheckIn/projects/1) <br/>
+>-  [요구사항](https://www.notion.so/c20bd54d2a6e485184fbc9a9733b7d4a) <br/>
+>-  [API](https://www.notion.so/API-Document-c84ed72395714d18bb33be6859372f7c) <br/>
  
 
 # 🧑‍💻 Contributors
