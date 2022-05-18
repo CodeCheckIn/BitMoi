@@ -11,7 +11,7 @@
 >- [와이어 프레임](https://www.figma.com/proto/7usxJCuyjYt1Dv8Cd6mC5D/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%AA%A8%EC%9D%98%ED%88%AC%EC%9E%90?node-id=10%3A145&scaling=min-zoom&page-id=10%3A144)
 
 ***
-## Archotecture
+## Architecture
 
 
 
