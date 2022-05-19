@@ -6,12 +6,14 @@
 ## 배포 링크
 [BitMoi](http://bitmoi.com.s3-website.ap-northeast-2.amazonaws.com/)
 
-## FrontEnd Stack
-> HTML , Typescript, Javascript, SCSS, React, Next.js
-## BackEnd Stack
-> Spring Webflux, Spring Cloud Gateway, Spring Cloud Netflix-Eureka, R2DBC MySQL, Kafka, JWT
-## Deploy Stack
-> Github, Github Action, AWS Codedeploy, AWS S3, AWS EC2, AWS RDS MySQL, AWS MSK, AWS Cloud Front
+## 사용한 기술 스택
+
+> ## FrontEnd Stack
+>   * HTML , Typescript, Javascript, SCSS, React, Next.js
+> ## BackEnd Stack
+>   * Spring Webflux, Spring Cloud Gateway, Spring Cloud Netflix-Eureka, R2DBC MySQL, Kafka, JWT
+> ## Deploy Stack
+>   * Github, Github Action, AWS Codedeploy, AWS S3, AWS EC2, AWS RDS MySQL, AWS MSK, AWS Cloud Front
 
 
 
