@@ -43,14 +43,9 @@
 <table>
     <tr>
         <td align="center" width="130px" height="160px">
-            <a href="https://github.com/J-Bback"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/J-Bback" /></a>
-            <br />
-            <a href="https://github.com/J-Bback">HyunJae Park</a>
-        </td>
-        <td align="center" width="130px" height="160px">
             <a href="https://github.com/radic2510"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/radic2510" /></a>
             <br />
-            <a href="https://github.com/radic2510">JaeYeob Kim</a>
+            <a href="https://github.com/radic2510">Jaeyeob Kim</a>
         </td>
         <td align="center" width="130px" height="160px">
             <a href="https://github.com/tak6831"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/tak6831" /></a>
@@ -67,27 +62,32 @@
             <br />
             <a href="https://github.com/qpyu66">SoHyun Bae</a>
         </td>
+        <td align="center" width="130px" height="160px">
+            <a href="https://github.com/J-Bback"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/J-Bback" /></a>
+            <br />
+            <a href="https://github.com/J-Bback">HyunJae Park</a>
+        </td>
     </tr>
     <tr>
        <td align="center">
-         박현재
-       </td>
-       <td align="center">
          김재엽
        </td>
-      <td align="center">
+       <td align="center">
          김경탁
-      </td>
+       </td>
       <td align="center">
          김정욱
       </td>
       <td align="center">
          배소현
       </td>
+      <td align="center">
+         박현재
+      </td>
     </tr>
     <tr>
       <td align="center">
-         FrontEnd
+         BackEnd
        </td>
       <td align="center">
          BackEnd
@@ -99,7 +99,7 @@
          BackEnd
       </td>
       <td align="center">
-         BackEnd
+         FrontEnd
       </td>
     </tr>
 </table>
