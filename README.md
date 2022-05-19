@@ -6,15 +6,16 @@
 ## 📋 Documents
 >- [프로젝트 칸반보드](https://github.com/radic2510/Team-CodeCheckIn/projects/1) <br/>
 >- [요구사항](https://github.com/CodeCheckIn/BitMoi/wiki/Requirements) <br/>
->- [API](https://github.com/CodeCheckIn/BitMoi/wiki/API-Documentation) <br/>
+>- [API Doc](https://github.com/CodeCheckIn/BitMoi/wiki/API-Documentation) <br/>
 >- [DB Schema](https://github.com/CodeCheckIn/BitMoi/wiki/DB-Schema) <br/>
->- [와이어 프레임](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe)
->- [Architecture](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe/Architecture)
+>- [Wireframe](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe) <br/>
+
 >- [Daily 회고](https://github.com/CodeCheckIn/Team-CodeCheckIn/wiki/Retrospect) <br/>
 
 ***
 ## Architecture
-
+>- [Architecture](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe/Architecture) <br/>
+>- [CI/CD](https://github.com/CodeCheckIn/BitMoi/wiki/CICD) <br/>
 
 
 # 🧑‍💻 Contributors
