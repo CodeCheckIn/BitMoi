@@ -30,6 +30,7 @@
 >- [API Doc](https://github.com/CodeCheckIn/BitMoi/wiki/API-Documentation) <br/>
 >- [DB Schema](https://github.com/CodeCheckIn/BitMoi/wiki/DB-Schema) <br/>
 >- [Wireframe](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe) <br/>
+>- [Features](https://github.com/CodeCheckIn/BitMoi/wiki/Features) <br/>
 
 >- [Daily 회고](https://github.com/CodeCheckIn/Team-CodeCheckIn/wiki/Retrospect) <br/>
 
