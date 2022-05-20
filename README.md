@@ -39,7 +39,7 @@
 
 ***
 ## Architecture
->- [Architecture](https://github.com/CodeCheckIn/BitMoi/wiki/Wireframe/Architecture) <br/>
+>- [Architecture](https://github.com/CodeCheckIn/BitMoi/wiki/Architecture) <br/>
 >- [CI/CD](https://github.com/CodeCheckIn/BitMoi/wiki/CICD) <br/>
 
 
