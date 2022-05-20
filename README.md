@@ -4,7 +4,7 @@
 >빗썸 API를 사용하여 실 거래와 유사한 코인 모의 투자를 경험해 볼 수 있습니다.
 
 ## 배포 링크
-<!-- [BitMoi](http://bitmoi.com.s3-website.ap-northeast-2.amazonaws.com/) -->
+[BitMoi](http://bitmoiapp.com.s3-website-us-east-1.amazonaws.com)
 
 ## 사용한 기술 스택
 
