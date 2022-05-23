@@ -3,6 +3,11 @@
 ## 🪙 코인 모의 투자
 >빗썸 API를 사용하여 실 거래와 유사한 코인 모의 투자를 경험해 볼 수 있습니다.
 
+---
+<img src="https://user-images.githubusercontent.com/55787969/169275631-3f3ee594-c2e7-4bc0-897e-ab584fe96230.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/55787969/169287873-199d6481-96ed-4e5d-bb1d-3e15d3386a86.gif" width="100%">
+---
+
 ## 배포 링크
 [BitMoi](http://bitmoiapp.com.s3-website-us-east-1.amazonaws.com)
 
